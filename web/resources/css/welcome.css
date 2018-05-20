@@ -1,0 +1,35 @@
+.intro {
+
+    height: 30%;
+    width: 100%;
+    position: relative;
+    text-align: center;
+
+}
+
+.name {
+    font-family: sans-serif;
+    font-size: 6vh;
+    margin-top: 10vh;
+    margin-bottom: 0.5vh;
+    height: 10vh;
+    text-decoration-line: none;
+    transform: translate(0,200%);
+
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0 auto;
+}
+.link{
+    width: 100%;
+    text-align: center;
+    height: 3vh;
+    transform: translate(0,1000%)
+}
+.link a{
+    font-style: normal;
+    font-family: helvetica neue;
+    font-size: 4vh;
+    font-weight: 500;
+    text-decoration: none;
+}
